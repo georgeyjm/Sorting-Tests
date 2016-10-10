@@ -2,11 +2,9 @@
 
 A program for testing different sorting algorithms.
 
-Latest Version: **2.0.1**
-
 Python Version: **3.5**
 
-Supported OS: **OSX / macOS 10.9+**
+Supported OS: **OSX / Linux / Windows**
 
 ## Algorithms Supported
 * Some Sort (I don't know what algorithm is this)
